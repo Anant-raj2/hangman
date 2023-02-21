@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #F6BE9A;
+  }
+
+#letterDiv{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  
+
+
+}
+
+input{
+  height: 70px;
+  width: 70px;
+  border-radius: 20px;
+  text-decoration: none;
+  border: none;
+
+}
+
+
+#outputDiv{
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  font-size: 5em;
+  color: #004643;
+}
+
+#image{
+  display: flex;
+  justify-content: center;
+}
